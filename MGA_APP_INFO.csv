@@ -1,0 +1,43 @@
+﻿"MGA","DOWN PAYMENT %","FINANCIAMIENTO","COMISIÓN %","FEES/UNIDAD","DEMORA DE INVOICES (ENDOSOS)","COMENTARIO IMPORTANTE"
+"TREATY OAK","20","DIRECTO","10","500","1 MES","- Se debe pagar antes de activar el endoso"
+"AMWINS","20","TODAS LAS FINANCIERAS","10","N/A","N/A",
+"APPALACHIAN","20","CAPITAL","10","N/A","N/A",
+"BASS","20","TODAS LAS FINANCIERAS","10","N/A","2 MESES",
+"BERKSHIRE","20","TODAS LAS FINANCIERAS","10","N/A","1 MES Y MEDIO","LA FECHA DE PAGO DEBE SER 5 DÍAS HÁBILES DESPUÉS DEL BINDER"
+"BTIS","20","TODAS LAS FINANCIERAS","15","N/A","N/A","Si el premium es más de $670 se puede financiar, sino debe ser en FULL
+Si el estimado es $650, poner $150 de fees"
+"BROOKLYN","25","DIRECTO","10","500","Se debe pagar antes de activar el endoso","Los $500 de fees se mantienen en full también en los endosos"
+"CONTINENTAL","20","DIRECTO","10","N/A","N/A","- La mensualidad se paga por correo
+- Cargan Late fee los 20 de cada mes"
+"COUNTY HALL","25","TOP","10","N/A","1 MES Y MEDIO","- Los fees y los taxes deben ir financiados SIEMPRE
+- Los fees dan comisión
+- También se puede financiar con YALDI (NOVATAE)"
+"CRC","20","TODAS LAS FINANCIERAS","10","N/A","1 MES Y MEDIO",
+"PRIME","25","DIRECTO","10","N/A","N/A","- Financiamiento directo con Greenlight
+- Se debe llamar para buscar financiamiento
+- El estimado se hace con una calculadora diferente 
+- Adicional, el cliente debe pagar un colateral a parte del Down Payment"
+"GUARDIAN","20","TODAS LAS FINANCIERAS","12","N/A","15 DÍAS A 1 MES","- Se puede con todas la financieras menos con GOTO
+- Para cada endoso cobran $20 de fees"
+"JM WILSON","20","TODAS LAS FINANCIERAS","10","N/A","1 MES Y MEDIO","- La fecha a pagar es el último día al mes siguiente de la fecha de efectividad"
+"MAXIMUM","20","TODAS LAS FINANCIERAS","10","N/A","1 MES Y MEDIO","Cuando el carrier es QUALITAS solo se envía con Capital o TOP, con Down payment al 25%"
+"MHC","20","DIRECTO","9","N/A","PAGAR ANTES DE ACTIVAR EL ENDOSO","- El APR siempre debe ir en 21%
+- Todo es financiado"
+"ONE80","25","ARIZONA","10","500","2 MESES",
+"PROFESSIONAL","20","DIRECTO","11,5","N/A","Por definir","Los fees van financiados SIEMPRE"
+"PROGRESSIVE","VARIABLE","DIRECTO","10","N/A","INMEDIATO","- El Down Payment se paga directo con ellos"
+"QUIC","PLATINUM (25%); TRANSVERSE E INCLINE (20%)","TOP","7","N/A","POR DEFINIR","SE DEBE PAGAR ANTES DE ACTIVAR"
+"RICHMONT","25","TOP","10","N/A","POR DEFINIR","- Se tiene que pagar vía cheque antes de activar"
+"ROCKLAKE","20","TODAS LAS FINANCIERAS","10","N/A","1 MES",
+"RPS","25","TODAS LAS FINANCIERAS","10","N/A","N/A","- Se debe pagar en la página de ellos al momento de la activación"
+"TIP","20","DIRECTO","10","N/A","1 MES Y MEDIO","Todo se financia"
+"XPT","20","TODAS LAS FINANCIERAS","10","1.000","1 MES Y MEDIO",
+"BRAZOS","25","TODAS LAS FINANCIERAS","9% MONOLINE; 10% PACKAGE","N/A","1 MES Y MEDIO","- Solo con autorización de un líder puede ir al 20% de DP
+- Si es renovaciones y lo piden al 20% de DP se puede hacer
+- Se debe pagar el 25% como mínimo para activar
+- Va todo financiado"
+"GSAY","25","ARIZONA","10","1.300","Piden pagar antes de activar el endoso","- Si el cliente está ubicado en FLORIDA se puede financiar  con NOVATAE (YALDI) al 25% de DP
+- Si el cliente está en otro estado diferente a FLORIDA se hace con ARIZONA. El APR con ARIZONA 19,95%
+- Si piden un estimado del direct bill se puede hacer con APR al 11%
+- FEES y TAXES deben ir en full (DIRECT BILL)"
+"GEICO","VARIABLE","DIRECTO","10","N/A","INMEDIATO","El Down Payment se paga directo con ellos"
